@@ -1,1 +1,5 @@
-print('Hello world')
+'''doc'''
+def main():
+  '''doc'''
+  print('Hello world')
+main()
